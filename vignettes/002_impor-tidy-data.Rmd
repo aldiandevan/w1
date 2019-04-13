@@ -44,7 +44,7 @@ glimpse(evals)
 ```
 
 Selain itu Anda juga dapat menggunakan fungsi `skim()` dari paket `skimr` untuk melihat rangkuman data. Pada *chunck* berikut, tuliskan kode untuk mengaktifkan paket `skimr` dan menjalankan fungsi `skim` pada data `evals`! Perbedaaan apakah yang Anda temukan antara penggunaan fungsi `glimpse()` dan `skim()`?
-```{r}
+```{r eval=FALSE, include=FALSE}
 install.packages("skimr")
 ```
 
