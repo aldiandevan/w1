@@ -27,9 +27,6 @@ Ini merupakan dokumen R Markdown yang dapat digunakan untuk membuat dokumen HTML
 
 Kode R dapat dimasukan ke dalam dokumen R Markdown dengan menggunakan *chunck* yang dimulai dengan penanda  tiga *backtick* '```' (dibuat dengan klik tombol Insert - R). Contoh cara untuk penulisan kode R kedalam dokumen R Markdown adalah sebagai berikut:
 
-```{r}
-head(beragam)
-```
 
 
 ```{r}
